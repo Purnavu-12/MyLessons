@@ -1,7 +1,7 @@
 import os
 import shutil
 
-directory = os.path.join(os.path.expanduser("~"), "Downloads")
+directory = os.path.join(os.path.expanduser("~"), " HERE ") #-> write the foldername of which you want to organize 
 
 extentions = {
     ".pdf": "documents",
