@@ -60,7 +60,7 @@ class WeatherApp:
                   foreground=[("active", "#FFFFFF")])
 
     def build_ui(self):
-        title = tk.Label(self.root, text="🌤 Let's Weather!",
+        title = tk.Label(self.root, text="🌤 Let's Weather!!",
                          font=("Segoe UI", 20, "bold"),
                          fg="#E8E8E8", bg="#1E1E1E")
         title.pack(pady=12)
