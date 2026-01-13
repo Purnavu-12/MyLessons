@@ -18,6 +18,9 @@ Here are the main Python projects and scripts in this repository:
 - **fileOrganizer.py**  
   A utility script for automatically organizing files.
 
+- **Tic-Tac-Toe**
+  Fun game built using Tkinter
+
 ## 🛠️ Tech Stack
 
 - Primarily **Python**
